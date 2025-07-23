@@ -171,11 +171,11 @@ Display a welcome message for the ticket booking platform.
 2. Main Menu
 Present transport mode options to the user:
 
-Railways
+1 → Railways
 
-Airways
+2 → Airways
 
-Roadways
+3 → Roadways
 
 Prompt the user to enter their choice and read the input.
 
